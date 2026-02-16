@@ -2,7 +2,7 @@
 
 import React, { useState, useEffect } from 'react';
 import { Search, MapPin, Phone, Clock, DollarSign, Navigation, AlertCircle, Baby, Pill, Activity, Syringe, Stethoscope, Ambulance, ChevronRight, Star } from 'lucide-react';
-import { supabase } from '@/lib/supabase';
+import { supabase } from '../lib/supabase';
 
 export default function EmiNav() {
   const [selectedIntent, setSelectedIntent] = useState(null);
