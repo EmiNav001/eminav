@@ -61,8 +61,8 @@ Search health facilities by service, capability, and location — so you can mak
           <div class="hero-stat-label">Intent Types</div>
         </div>
         <div>
-          <div class="hero-stat-value">100%</div>
-          <div class="hero-stat-label">Verified</div>
+          <div class="hero-stat-value">Structured & Reviewed</div>
+          <div class="hero-stat-label">Facility Data</div>
         </div>
       </div>
     </div>
@@ -337,10 +337,9 @@ EmiNav helps you find facilities equipped for your specific need.</p>
           “Emi” means “life” in Yoruba. That’s exactly what this is about — your life, your health, your navigation.
 
 EmiNav was built because finding the right healthcare in African cities shouldn’t require luck, word-of-mouth, insider knowledge, or wasted minutes spent on endlessly searching.
-We map healthcare facilities not just by location, but by structured service and capability data — so you can find care aligned with your need, not just the nearest name on a map.
         </p>
         <p class="about-body" style="margin-top:16px;">
-          We map healthcare facilities not just by location, but by verified capability — so that when you search for emergency care, you find a facility that actually has a working emergency room.
+          We map healthcare facilities not just by location, but by structured service and capability data — so you can find care aligned with your need, not just the nearest name on a map.
         </p>
 
         <div class="cities-coverage">
@@ -359,7 +358,7 @@ We map healthcare facilities not just by location, but by structured service and
         <div class="about-right-card">
           <div class="about-vision-label">Our Mission</div>
           <div class="about-vision-text">
-            To make healthcare navigation in Africa as simple as <em>stating what you need</em> — and getting exactly the right help.
+            To make healthcare navigation in Africa as simple as <em>stating what you need</em> — and finding care aligned with it.
           </div>
 
           <div class="about-divider"></div>
@@ -368,7 +367,7 @@ We map healthcare facilities not just by location, but by structured service and
             <div class="founder-avatar">E</div>
             <div>
               <div class="founder-info-name">EmiNav Team</div>
-              <div class="founder-info-role">Building Africa's health layer</div>
+              <div class="founder-info-role">A growing team building structured healthcare navigation for African cities.</div>
             </div>
           </div>
         </div>
@@ -377,22 +376,22 @@ We map healthcare facilities not just by location, but by structured service and
           <div class="about-pillar">
             <div class="about-pillar-icon">✓</div>
             <div>
-              <div class="about-pillar-title">Verified, Not Just Listed</div>
-              <div class="about-pillar-desc">Every facility is manually verified. We confirm capabilities before they appear on EmiNav.</div>
+              <div class="about-pillar-title">Structured and Reviewed — Not Just Listed</div>
+              <div class="about-pillar-desc">We organize facility information by service and capability, drawing from credible sources and continuous data updates.</div>
             </div>
           </div>
           <div class="about-pillar">
             <div class="about-pillar-icon">🌍</div>
             <div>
               <div class="about-pillar-title">Built for Africa</div>
-              <div class="about-pillar-desc">Designed for the realities of African healthcare — from cost transparency to local language support.</div>
+              <div class="about-pillar-desc">Healthcare systems across African cities are complex and fast-moving. EmiNav is designed to bring structure and clarity — from service capability to straightforward navigation.</div>
             </div>
           </div>
           <div class="about-pillar">
             <div class="about-pillar-icon">⚡</div>
             <div>
               <div class="about-pillar-title">Speed When It Matters</div>
-              <div class="about-pillar-desc">In emergencies, seconds count. EmiNav is optimized for fast, clear decisions.</div>
+              <div class="about-pillar-desc">In urgent situations, clarity is critical. EmiNav is designed to help you find relevant facilities quickly and confidently.</div>
             </div>
           </div>
         </div>
@@ -405,7 +404,7 @@ We map healthcare facilities not just by location, but by structured service and
     <div class="reveal">
       <div class="section-label">Get in Touch</div>
       <h2 class="section-title">We'd love to hear from you.</h2>
-      <p class="section-sub">Whether you're a healthcare facility, potential partner, or just have questions — reach out.</p>
+      <p class="section-sub">Whether you're a healthcare facility, potential partner, or just have questions about EmiNav — we welcome your inquiry.</p>
     </div>
 
     <div class="contact-grid">
@@ -428,14 +427,14 @@ We map healthcare facilities not just by location, but by structured service and
           <div class="contact-icon">🏥</div>
           <div>
             <div class="contact-info-label">For Healthcare Facilities</div>
-            <div class="contact-info-value">Get listed on EmiNav — contact us to start the verification process.</div>
+            <div class="contact-info-value">Healthcare providers can request inclusion or updates. Contact us to initiate the facility review process.</div>
           </div>
         </div>
         <div class="contact-info-item">
           <div class="contact-icon">🤝</div>
           <div>
             <div class="contact-info-label">Partnerships</div>
-            <div class="contact-info-value">Open to partnerships with health networks, insurers, and NGOs.</div>
+            <div class="contact-info-value">EmiNav partners with healthcare networks, insurers, NGOs, and system stakeholders working to improve access and service visibility across African cities.</div>
           </div>
         </div>
       </div>
@@ -480,7 +479,7 @@ We map healthcare facilities not just by location, but by structured service and
     <div class="footer-grid">
       <div>
         <div class="footer-brand-name"><img src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTQwIiBoZWlnaHQ9IjE3MCIgdmlld0JveD0iMCAwIDE0MCAxNzAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PGRlZnM+PGxpbmVhckdyYWRpZW50IGlkPSJmZyIgeDE9IjAuMyIgeTE9IjAiIHgyPSIwLjciIHkyPSIxIj48c3RvcCBvZmZzZXQ9IjAlIiBzdG9wLWNvbG9yPSIjMkVDRkM1Ii8+PHN0b3Agb2Zmc2V0PSI1MCUiIHN0b3AtY29sb3I9IiMxQkE4QzAiLz48c3RvcCBvZmZzZXQ9IjEwMCUiIHN0b3AtY29sb3I9IiMxQTVBOUUiLz48L2xpbmVhckdyYWRpZW50PjwvZGVmcz48cGF0aCBkPSJNNzAgMTAgQzk4IDEwIDEyMCAzMiAxMjAgNjAgQzEyMCA4OCA3MCAxNDAgNzAgMTQwIEM3MCAxNDAgMjAgODggMjAgNjAgQzIwIDMyIDQyIDEwIDcwIDEwIFoiIGZpbGw9InVybCgjZmcpIi8+PGVsbGlwc2UgY3g9IjU0IiBjeT0iMzgiIHJ4PSIxOCIgcnk9IjEzIiBmaWxsPSJ3aGl0ZSIgZmlsbC1vcGFjaXR5PSIwLjEyIiB0cmFuc2Zvcm09InJvdGF0ZSgtMjAgNTQgMzgpIi8+PHBhdGggZD0iTTUyIDM4IEg5MCBDOTggMzggOTggNTAgOTAgNTAgSDYyIFY2NCBIOTAgQzk4IDY0IDk4IDc2IDkwIDc2IEg2MiBWOTAgSDkwIEM5OCA5MCA5OCAxMDIgOTAgMTAyIEg1MiBaIiBmaWxsPSJ3aGl0ZSIvPjxwb2x5bGluZSBwb2ludHM9IjYwLDcwIDY4LDcwIDc0LDYwIDgwLDgyIDg2LDcwIDkwLDcwIiBmaWxsPSJub25lIiBzdHJva2U9IiMxQkE4QzAiIHN0cm9rZS13aWR0aD0iNCIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIi8+PHRleHQgeD0iNzAiIHk9IjE2MCIgZm9udC1mYW1pbHk9IidETSBTZXJpZiBEaXNwbGF5JyxHZW9yZ2lhLHNlcmlmIiBmb250LXNpemU9IjIyIiBmaWxsPSJ3aGl0ZSIgdGV4dC1hbmNob3I9Im1pZGRsZSI+RW1pTmF2PC90ZXh0Pjwvc3ZnPg==" alt="EmiNav" style="height:64px;width:auto;" /></div>
-        <div class="footer-brand-desc">Navigate your life. Master your health. Africa's intent-based healthcare navigation platform.</div>
+        <div class="footer-brand-desc">Navigate your health with clarity. Africa's intent-based healthcare navigation platform.</div>
       </div>
       <div>
         <div class="footer-col-title">Navigation</div>
