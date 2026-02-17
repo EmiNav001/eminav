@@ -36,7 +36,8 @@ export default function Home() {
       </h1>
 
       <p class="hero-sub">
-        EmiNav is Africa's first intent-based health navigation platform. Tell us what you need — we'll find the facility that can actually handle it.
+        EmiNav is the first intent-based health navigation platform built for African cities. 
+Search health facilities by service, capability, and location — so you can make informed decisions with confidence.
       </p>
 
       <div class="hero-actions">
