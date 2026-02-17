@@ -1,6 +1,6 @@
 export default function About() {
   return (
-    <section id="about" className="py-28 px-6 md:px-16 lg:px-24 relative overflow-hidden bg-[#060d1a]">
+    <section className="py-28 px-6 md:px-16 lg:px-24 relative overflow-hidden bg-[#060d1a]">
       {/* Background glow */}
       <div className="absolute top-0 right-0 w-[500px] h-[500px] rounded-full bg-[#2dd4bf]/5 blur-[120px] pointer-events-none" />
       <div className="absolute bottom-0 left-0 w-[400px] h-[400px] rounded-full bg-[#1e5fa8]/8 blur-[100px] pointer-events-none" />
