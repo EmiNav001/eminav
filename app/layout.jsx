@@ -1,8 +1,8 @@
 import './globals.css'
 
 export const metadata = {
-  title: 'EmiNav - Navigate Your Life, Master Your Health',
-  description: 'Intent-based healthcare navigation for Africa. Find the right healthcare facility in Nairobi and Lagos.',
+  title: 'EmiNav - Navigate your health with clarity',
+  description: 'Intent-based healthcare navigation for African cities.',
   keywords: ['healthcare', 'africa', 'nairobi', 'lagos', 'hospital', 'emergency', 'pharmacy', 'diagnostic'],
 }
 
