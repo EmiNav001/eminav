@@ -266,7 +266,8 @@ Search health facilities by service, capability, and location — so you can mak
     <div class="reveal">
       <div class="section-label">The EmiNav Difference</div>
       <h2 class="section-title">Decision-first,<br/>not search-first.</h2>
-      <p class="section-sub">Google shows you 50 clinics. EmiNav shows you the right one for your specific situation.</p>
+      <p class="section-sub">Most search engines show you a list of clinics.
+EmiNav helps you find facilities equipped for your specific need.</p>
     </div>
 
     <div class="hiw-grid">
@@ -275,28 +276,28 @@ Search health facilities by service, capability, and location — so you can mak
           <div class="hiw-step-number">1</div>
           <div class="hiw-step-content">
             <div class="hiw-step-title">State your intent</div>
-            <div class="hiw-step-desc">Tell us what you need — emergency, labor, X-ray, pharmacy, or more. Not keywords. Real situations.</div>
+            <div class="hiw-step-desc">Tell us what you need — emergency, labor, X-ray, pharmacy, or more. Not just keywords. Real healthcare needs.</div>
           </div>
         </div>
         <div class="hiw-step">
           <div class="hiw-step-number">2</div>
           <div class="hiw-step-content">
             <div class="hiw-step-title">We filter by capability</div>
-            <div class="hiw-step-desc">Our database tracks what facilities can actually do — not what they claim. We only show you what matches.</div>
+            <div class="hiw-step-desc">Our structured database matches facilities based on available services and reported capabilities — so you only see relevant options.</div>
           </div>
         </div>
         <div class="hiw-step">
           <div class="hiw-step-number">3</div>
           <div class="hiw-step-content">
             <div class="hiw-step-title">Get ranked results</div>
-            <div class="hiw-step-desc">Results ranked by distance, rating, cost, and availability. Every facility is manually verified.</div>
+            <div class="hiw-step-desc">Results are organized by distance and other key factors to help you compare quickly and confidently.</div>
           </div>
         </div>
         <div class="hiw-step">
           <div class="hiw-step-number">4</div>
           <div class="hiw-step-content">
             <div class="hiw-step-title">Call or get directions</div>
-            <div class="hiw-step-desc">One tap to call, one tap for directions. No friction when seconds matter.</div>
+            <div class="hiw-step-desc">Call directly or get directions in one tap — designed for clarity when time matters.</div>
           </div>
         </div>
       </div>
@@ -305,7 +306,7 @@ Search health facilities by service, capability, and location — so you can mak
         <div class="compare-title">EmiNav vs. Traditional Search</div>
         <div class="compare-row">
           <div class="compare-card bad">
-            <div class="compare-card-label">❌ Google Search</div>
+            <div class="compare-card-label">❌ Traditional Search Engines</div>
             <div class="compare-item"><span class="compare-icon">✗</span> 50+ unfiltered results</div>
             <div class="compare-item"><span class="compare-icon">✗</span> No capability data</div>
             <div class="compare-item"><span class="compare-icon">✗</span> No cost estimates</div>
@@ -316,7 +317,7 @@ Search health facilities by service, capability, and location — so you can mak
             <div class="compare-card-label">✓ EmiNav</div>
             <div class="compare-item"><span class="compare-icon">✓</span> Intent-filtered results</div>
             <div class="compare-item"><span class="compare-icon">✓</span> Verified capabilities</div>
-            <div class="compare-item"><span class="compare-icon">✓</span> Cost estimates shown</div>
+            <div class="compare-item"><span class="compare-icon">✓</span> Cost estimates shown(where available)</div>
             <div class="compare-item"><span class="compare-icon">✓</span> One-tap call & directions</div>
             <div class="compare-item"><span class="compare-icon">✓</span> Right care, right now</div>
           </div>
