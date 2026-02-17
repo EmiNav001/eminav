@@ -334,7 +334,10 @@ EmiNav helps you find facilities equipped for your specific need.</p>
         <div class="section-label">About EmiNav</div>
         <h2 class="section-title">Built for the African healthcare reality.</h2>
         <p class="about-body">
-          "Emi" means "my life" in Yoruba. That's exactly what this is about — your life, your health, your navigation. EmiNav was built because finding the right healthcare in Africa shouldn't require luck, insider knowledge, or wasted hours.
+          “Emi” means “life” in Yoruba. That’s exactly what this is about — your life, your health, your navigation.
+
+EmiNav was built because finding the right healthcare in African cities shouldn’t require luck, word-of-mouth, insider knowledge, or wasted minutes spent on endlessly searching.
+We map healthcare facilities not just by location, but by structured service and capability data — so you can find care aligned with your need, not just the nearest name on a map.
         </p>
         <p class="about-body" style="margin-top:16px;">
           We map healthcare facilities not just by location, but by verified capability — so that when you search for emergency care, you find a facility that actually has a working emergency room.
