@@ -1,13 +1,10 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>EmiNav — Navigate Your Life. Master Your Health.</title>
-  <link rel="preconnect" href="https://fonts.googleapis.com" />
-  <link href="https://fonts.googleapis.com/css2?family=DM+Serif+Display:ital@0;1&family=DM+Sans:wght@300;400;500;600&display=swap" rel="stylesheet" />
-  <style>
-    :root {
+'use client'
+
+export default function Home() {
+  return (
+    <>
+      <style jsx global>{\`
+:root {
       --navy: #0A1628;
       --teal: #0D6E6E;
       --teal-light: #12919180;
@@ -1000,11 +997,9 @@
       .nav-links { display: none; }
       .compare-panel { display: none; }
     }
-  </style>
-</head>
-<body>
-
-  <!-- NAV -->
+      \`}</style>
+      
+<!-- NAV -->
   <nav>
     <a href="#hero" class="nav-logo">
       <img src="data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz4KPHN2ZyB3aWR0aD0iODAwIiBoZWlnaHQ9Ijg4MCIgdmlld0JveD0iMCAwIDgwMCA4ODAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+CiAgPGRlZnM+CiAgICA8bGluZWFyR3JhZGllbnQgaWQ9Im5nIiB4MT0iMC4zIiB5MT0iMCIgeDI9IjAuNyIgeTI9IjEiPgogICAgICA8c3RvcCBvZmZzZXQ9IjAlIiAgc3RvcC1jb2xvcj0iIzJFQ0ZDNSIvPgogICAgICA8c3RvcCBvZmZzZXQ9IjUwJSIgc3RvcC1jb2xvcj0iIzFCQThDMCIvPgogICAgICA8c3RvcCBvZmZzZXQ9IjEwMCUiIHN0b3AtY29sb3I9IiMxQTVBOUUiLz4KICAgIDwvbGluZWFyR3JhZGllbnQ+CiAgPC9kZWZzPgogIDxwYXRoIGQ9Ik00MDAgMTIwIEM1NjAgMTIwIDY4MCAyNDAgNjgwIDQwMCBDNjgwIDU2MCA0MDAgODgwIDQwMCA4ODAgQzQwMCA4ODAgMTIwIDU2MCAxMjAgNDAwIEMxMjAgMjQwIDI0MCAxMjAgNDAwIDEyMCBaIiBmaWxsPSJ1cmwoI25nKSIvPgogIDxlbGxpcHNlIGN4PSIzMTAiIGN5PSIyNjAiIHJ4PSIxMDAiIHJ5PSI3NSIgZmlsbD0id2hpdGUiIGZpbGwtb3BhY2l0eT0iMC4xMiIgdHJhbnNmb3JtPSJyb3RhdGUoLTIwIDMxMCAyNjApIi8+CiAgPHBhdGggZD0iTTMwMCAzMDAgSDUyMCBDNTYwIDMwMCA1NjAgMzYwIDUyMCAzNjAgSDM2MCBWNDQwIEg1MjAgQzU2MCA0NDAgNTYwIDUwMCA1MjAgNTAwIEgzNjAgVjU4MCBINTIwIEM1NjAgNTgwIDU2MCA2NDAgNTIwIDY0MCBIMzAwIFoiIGZpbGw9IndoaXRlIi8+CiAgPHBvbHlsaW5lIHBvaW50cz0iMzUwLDQ3MCAzOTAsNDcwIDQyMCw0MzAgNDUwLDUyMCA0ODAsNDcwIDUyMCw0NzAiIGZpbGw9Im5vbmUiIHN0cm9rZT0iIzFCQThDMCIgc3Ryb2tlLXdpZHRoPSIyMCIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIi8+Cjwvc3ZnPg==" alt="EmiNav" style="height:46px;width:auto;" />
@@ -1419,5 +1414,40 @@
       });
     });
   </script>
-</body>
-</html>
+      
+      <script dangerouslySetInnerHTML={{__html: \`
+// Scroll reveal
+    const reveals = document.querySelectorAll('.reveal');
+    const observer = new IntersectionObserver((entries) => {
+      entries.forEach((entry, i) => {
+        if (entry.isIntersecting) {
+          setTimeout(() => {
+            entry.target.classList.add('visible');
+          }, i * 100);
+        }
+      });
+    }, { threshold: 0.1 });
+
+    reveals.forEach(el => observer.observe(el));
+
+    // Smooth active nav
+    const navLinks = document.querySelectorAll('.nav-links a');
+    window.addEventListener('scroll', () => {
+      const scrollY = window.scrollY;
+      navLinks.forEach(link => {
+        const section = document.querySelector(link.getAttribute('href'));
+        if (section) {
+          const top = section.offsetTop - 100;
+          const bottom = top + section.offsetHeight;
+          if (scrollY >= top && scrollY < bottom) {
+            link.style.color = '#5CC8C8';
+          } else {
+            link.style.color = '';
+          }
+        }
+      });
+    });
+      \`}} />
+    </>
+  )
+}
