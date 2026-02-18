@@ -1,9 +1,9 @@
 import './globals.css'
 
 export const metadata = {
-  title: 'EmiNav - Navigate your health with clarity',
-  description: 'Intent-based healthcare navigation for African cities.',
-  keywords: ['healthcare', 'africa', 'nairobi', 'lagos', 'hospital', 'emergency', 'pharmacy', 'diagnostic'],
+  title: 'Navigate Your Health with Clarity',
+  description: 'Intent-based healthcare navigation for Africa. Find the right healthcare facility nearest to you.',
+  keywords: ['healthcare', 'africa', 'nairobi', 'lagos', 'hospital', 'clinic', 'emergency', 'pharmacy', 'diagnostic'],
 }
 
 export default function RootLayout({ children }) {
