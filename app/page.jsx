@@ -546,37 +546,39 @@ EmiNav was built because finding the right healthcare in African cities shouldn‚
       
       <h1 style="font-family:'DM Serif Display',serif;font-size:2.5rem;color:#0A1628;margin-bottom:10px">Privacy Policy</h1>
       <p style="color:#6B7280;margin-bottom:40px">Effective: February 2026</p>
+       <p>EmiNav is committed to protecting your privacy. This policy explains what information we collect and how we use it.:</p>
       
       <div style="color:#1A2332;line-height:1.8;font-size:1.05rem">
         <h2 style="font-family:'DM Serif Display',serif;font-size:1.5rem;color:#0A1628;margin:30px 0 15px">Information We Collect</h2>
-        <p>EmiNav collects minimal information to provide our service:</p>
+        <p>EmiNav collects limited information necessary to provide and improve our service:</p>
         <ul style="margin:15px 0 25px;padding-left:25px">
           <li style="margin-bottom:8px">Contact form submissions (name, email, message)</li>
-          <li style="margin-bottom:8px">Search queries (city selected, intent clicked)</li>
+          <li style="margin-bottom:8px">Search interactions (city selected or intent category clicked)</li>
           <li style="margin-bottom:8px">Anonymous usage analytics (pages visited, time spent)</li>
         </ul>
         
-        <h2 style="font-family:'DM Serif Display',serif;font-size:1.5rem;color:#0A1628;margin:30px 0 15px">How We Use Your Data</h2>
+        <h2 style="font-family:'DM Serif Display',serif;font-size:1.5rem;color:#0A1628;margin:30px 0 15px">How We Use Your Information</h2>
         <p>We use this information to:</p>
         <ul style="margin:15px 0 25px;padding-left:25px">
-          <li style="margin-bottom:8px">Respond to inquiries submitted via contact form</li>
-          <li style="margin-bottom:8px">Improve our service based on usage patterns</li>
+          <li style="margin-bottom:8px">Respond to inquiries submitted via our contact form</li>
+          <li style="margin-bottom:8px">Improve user experience and search functionality</li>
           <li style="margin-bottom:8px">Maintain and enhance facility data quality</li>
+          <li style="margin-bottom:8px">Monitor and improve platform performance</li>
         </ul>
         
         <h2 style="font-family:'DM Serif Display',serif;font-size:1.5rem;color:#0A1628;margin:30px 0 15px">Data Sharing</h2>
-        <p>We do <strong>NOT</strong> sell, rent, or share your personal information with third parties. Your data is used solely to provide and improve EmiNav.</p>
+        <p>We do <strong>NOT</strong> sell, rent, or trade your personal information. Your data is used solely to provide and improve EmiNav.</p>
         
         <h2 style="font-family:'DM Serif Display',serif;font-size:1.5rem;color:#0A1628;margin:30px 0 15px">Your Rights</h2>
         <p>You have the right to:</p>
         <ul style="margin:15px 0 25px;padding-left:25px">
-          <li style="margin-bottom:8px">Request deletion of your data</li>
+          <li style="margin-bottom:8px">Request correction or deletion of your data</li>
           <li style="margin-bottom:8px">Opt out of communications</li>
-          <li style="margin-bottom:8px">Access information we hold about you</li>
+          <li style="margin-bottom:8px">Request access to personal data we hold about you</li>
         </ul>
         
         <h2 style="font-family:'DM Serif Display',serif;font-size:1.5rem;color:#0A1628;margin:30px 0 15px">Contact</h2>
-        <p>Privacy questions? Email <a href="mailto:privacy@eminav.com" style="color:#0D6E6E;text-decoration:underline">privacy@eminav.com</a></p>
+        <p>Privacy questions? Email <a href="mailto:hello@eminav.com" style="color:#0D6E6E;text-decoration:underline">hello@eminav.com</a></p>
       </div>
     </div>
   </div>
@@ -588,51 +590,52 @@ EmiNav was built because finding the right healthcare in African cities shouldn‚
       
       <h1 style="font-family:'DM Serif Display',serif;font-size:2.5rem;color:#0A1628;margin-bottom:10px">Terms of Service</h1>
       <p style="color:#6B7280;margin-bottom:40px">Effective: February 2026</p>
+      <p>By accessing or using EmiNav, you agree to the following terms:</p>
       
       <div style="color:#1A2332;line-height:1.8;font-size:1.05rem">
         <h2 style="font-family:'DM Serif Display',serif;font-size:1.5rem;color:#0A1628;margin:30px 0 15px">1. Service Description</h2>
-        <p>EmiNav is an informational platform helping users find healthcare facilities based on their specific needs. We provide facility listings, contact information, and capability data.</p>
+        <p>EmiNav is an informational healthcare navigation platform. We provide facility listings, contact details, and structured service and capability information to assist users in identifying healthcare facilities.</p>
         
         <h2 style="font-family:'DM Serif Display',serif;font-size:1.5rem;color:#0A1628;margin:30px 0 15px">2. Not Medical Advice</h2>
         <div style="background:#FEF3C7;border-left:4px solid #F59E0B;padding:20px;margin:15px 0 25px;border-radius:8px">
           <p style="margin:0;font-weight:600;color:#92400E">‚ö†Ô∏è IMPORTANT: EmiNav does NOT provide medical advice, diagnosis, or treatment.</p>
         </div>
-        <p>All information is for informational purposes only. You must:</p>
+        <p>All information is provided for general informational purposes only. Users are responsible for:</p>
         <ul style="margin:15px 0 25px;padding-left:25px">
-          <li style="margin-bottom:8px">Verify facility details before visiting</li>
-          <li style="margin-bottom:8px">Call ahead to confirm services and availability</li>
-          <li style="margin-bottom:8px">Consult qualified healthcare professionals for medical decisions</li>
-          <li style="margin-bottom:8px"><strong>In emergencies, call local emergency services immediately</strong></li>
+          <li style="margin-bottom:8px">Verifying facility details directly before visiting</li>
+          <li style="margin-bottom:8px">Confirming service availability and operating hours</li>
+          <li style="margin-bottom:8px">Consulting qualified healthcare professionals for medical decisions</li>
+          <li style="margin-bottom:8px"><strong>Contacting local emergency services in urgent situations</strong></li>
         </ul>
         
         <h2 style="font-family:'DM Serif Display',serif;font-size:1.5rem;color:#0A1628;margin:30px 0 15px">3. Information Accuracy</h2>
-        <p>While we strive for accuracy:</p>
+        <p>While we strive to maintain accurate and up-to-date information:</p>
         <ul style="margin:15px 0 25px;padding-left:25px">
           <li style="margin-bottom:8px">Facility details may change without notice</li>
-          <li style="margin-bottom:8px">We cannot guarantee service availability or quality</li>
-          <li style="margin-bottom:8px">Users must verify all information independently</li>
+          <li style="margin-bottom:8px">We cannot guarantee availability, pricing, or service capacity</li>
+          <li style="margin-bottom:8px">Users must independently verify all information before acting on it</li>
         </ul>
         
         <h2 style="font-family:'DM Serif Display',serif;font-size:1.5rem;color:#0A1628;margin:30px 0 15px">4. Limitation of Liability</h2>
-        <p>EmiNav and its operators are NOT liable for:</p>
+        <p>To the fullest extent permitted by law, EmiNav and its operators shall not be liable for:</p>
         <ul style="margin:15px 0 25px;padding-left:25px">
-          <li style="margin-bottom:8px">Outdated or incorrect facility information</li>
-          <li style="margin-bottom:8px">Quality of care received at any listed facility</li>
-          <li style="margin-bottom:8px">Decisions made based on information provided</li>
-          <li style="margin-bottom:8px">Any damages resulting from use of this service</li>
+          <li style="margin-bottom:8px">Inaccurate or outdated facility information</li>
+          <li style="margin-bottom:8px">Quality of care provided by any listed facility</li>
+          <li style="margin-bottom:8px">Decisions made based on information obtained through EmiNav</li>
+          <li style="margin-bottom:8px">Any direct, indirect, incidental, or consequential damages arising from use of the platform</li>
         </ul>
         
         <h2 style="font-family:'DM Serif Display',serif;font-size:1.5rem;color:#0A1628;margin:30px 0 15px">5. User Responsibilities</h2>
         <p>By using EmiNav, you agree to:</p>
         <ul style="margin:15px 0 25px;padding-left:25px">
-          <li style="margin-bottom:8px">Use the service for informational purposes only</li>
-          <li style="margin-bottom:8px">Verify all facility information before acting on it</li>
+          <li style="margin-bottom:8px">Use the platform for informational purposes only</li>
+          <li style="margin-bottom:8px">Independently verify facility information before making healthcare decisions</li>
           <li style="margin-bottom:8px">Not hold EmiNav responsible for healthcare outcomes</li>
-          <li style="margin-bottom:8px">Report inaccurate information to help us improve</li>
+          <li style="margin-bottom:8px">Notify us of inaccurate or outdated information to help us improve</li>
         </ul>
         
         <h2 style="font-family:'DM Serif Display',serif;font-size:1.5rem;color:#0A1628;margin:30px 0 15px">6. Contact</h2>
-        <p>Questions? Email <a href="mailto:legal@eminav.com" style="color:#0D6E6E;text-decoration:underline">legal@eminav.com</a></p>
+        <p>Questions? Email <a href="mailto:hello@eminav.com" style="color:#0D6E6E;text-decoration:underline">hello@eminav.com</a></p>
       </div>
     </div>
   </div>
