@@ -700,7 +700,7 @@ EmiNav was built because finding the right healthcare in African cities shouldnâ
                   <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><polyline points="7 10 12 15 17 10"/><line x1="12" y1="15" x2="12" y2="3"/></svg>
                   Download PDF
                 </a>
-                <a href="#" onclick="event.preventDefault();const text='Check out EmiNav - helps you find the right healthcare facility in Lagos & Nairobi!
+                <a href="https://wa.me/?text=Check%20out%20EmiNav%20-%20helps%20you%20find%20the%20right%20healthcare%20facility%20in%20Lagos%20%26%20Nairobi!%0A%0ADownload%20info%3A%20https%3A%2F%2Feminav.com%2FEmiNav_How_It_Works.pdf%0A%0AVisit%3A%20eminav.com" target="_blank" style="display:inline-flex;align-items:center;gap:6px;padding:8px 16px;background:rgba(37,211,102,0.2);border:1px solid #25D366;color:#25D366;border-radius:6px;text-decoration:none;font-size:0.9375rem;font-weight:600;transition:all 0.2s" onmouseover="this.style.background='rgba(37,211,102,0.3)'" onmouseout="this.style.background='rgba(37,211,102,0.2)'">
 
 Download info: https://eminav.com/EmiNav_How_It_Works.pdf
 
