@@ -205,7 +205,7 @@ export default function Home() {
       </div>
 
       <h1 class="hero-headline">
-        Find the <em>right</em> care,<br/>not just <em>any</em> care.
+        Find the <em>right</em> care,<br/>not just <em>the closest</em> care.
       </h1>
 
       <p class="hero-sub">
