@@ -334,7 +334,7 @@ Search health facilities by service, capability, and location — so you can mak
           <div style="position:absolute;top:10px;right:10px;background:#DC2626;color:white;font-size:0.65rem;font-weight:700;padding:4px 10px;border-radius:100px">CRITICAL</div>
           <div style="font-size:2.5rem;margin-bottom:12px">🚑</div>
           <div style="font-weight:600;font-size:1.1rem;color:#0A1628;margin-bottom:6px">Medical Emergency</div>
-          <div style="font-size:0.85rem;color:#6B7280">Severe pain, cardiac, breathing issues</div>
+          <div style="font-size:0.85rem;color:#6B7280">Severe pain, bleeding, collapse, breathing issues</div>
         </div>
 
         <div class="intent-card" onclick="alert('Child Emergency in ' + document.getElementById('selected-city').textContent)" style="background:linear-gradient(135deg,#FEE2E2 0%,#FECACA 100%);border:2px solid #FCA5A5;border-radius:16px;padding:24px;cursor:pointer;position:relative">
@@ -348,7 +348,7 @@ Search health facilities by service, capability, and location — so you can mak
           <div style="position:absolute;top:10px;right:10px;background:#DC2626;color:white;font-size:0.65rem;font-weight:700;padding:4px 10px;border-radius:100px">CRITICAL</div>
           <div style="font-size:2.5rem;margin-bottom:12px">🧠</div>
           <div style="font-weight:600;font-size:1.1rem;color:#0A1628;margin-bottom:6px">Stroke Symptoms</div>
-          <div style="font-size:0.85rem;color:#6B7280">Facial drooping, numbness, speech</div>
+          <div style="font-size:0.85rem;color:#6B7280">Facial drooping, numbness, slurred speech</div>
         </div>
 
         <!-- URGENT (YELLOW) - UPDATED: Pregnancy moved here -->
@@ -377,7 +377,7 @@ Search health facilities by service, capability, and location — so you can mak
           <div style="position:absolute;top:10px;right:10px;background:#F59E0B;color:white;font-size:0.65rem;font-weight:700;padding:4px 10px;border-radius:100px">URGENT</div>
           <div style="font-size:2.5rem;margin-bottom:12px">🔬</div>
           <div style="font-weight:600;font-size:1.1rem;color:#0A1628;margin-bottom:6px">Diagnostic Tests</div>
-          <div style="font-size:0.85rem;color:#6B7280">X-ray, ultrasound, lab tests</div>
+          <div style="font-size:0.85rem;color:#6B7280">X-ray, ultrasound, lab tests </div>
         </div>
 
         <!-- ROUTINE (WHITE) -->
@@ -390,7 +390,7 @@ Search health facilities by service, capability, and location — so you can mak
         <div class="intent-card" onclick="alert('Vaccination in ' + document.getElementById('selected-city').textContent)" style="background:white;border:2px solid #E5E7EB;border-radius:16px;padding:24px;cursor:pointer">
           <div style="font-size:2.5rem;margin-bottom:12px">💉</div>
           <div style="font-weight:600;font-size:1.1rem;color:#0A1628;margin-bottom:6px">Vaccination</div>
-          <div style="font-size:0.85rem;color:#6B7280">Immunizations, vaccines, boosters</div>
+          <div style="font-size:0.85rem;color:#6B7280">Immunizations, vaccines, booster shot</div>
         </div>
 
         <div class="intent-card" onclick="alert('Consultation in ' + document.getElementById('selected-city').textContent)" style="background:white;border:2px solid #E5E7EB;border-radius:16px;padding:24px;cursor:pointer">
