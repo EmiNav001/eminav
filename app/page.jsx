@@ -619,7 +619,7 @@ EmiNav was built because finding the right healthcare in African cities shouldnâ
             <div class="founder-avatar">E</div>
             <div>
               <div class="founder-info-name">EmiNav Team</div>
-              <div class="founder-info-role">A growing team building structured healthcare navigation for African cities.</div>
+              <div class="founder-info-role" style="font-size:1.125rem">A growing team building structured healthcare navigation for African cities.</div>
             </div>
           </div>
         </div>
