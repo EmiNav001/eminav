@@ -694,7 +694,7 @@ EmiNav was built because finding the right healthcare in African cities shouldnâ
           <div>
             <div class="contact-info-label">Share EmiNav</div>
             <div class="contact-info-value" style="display:flex;flex-direction:column;gap:12px">
-              <span style="font-size:0.9375rem;color:#6B7280">Help others find the right care</span>
+              <span style="font-size:0.9375rem;color:#000">Help others find the right care</span>
               <div style="display:flex;gap:12px;flex-wrap:wrap">
                 <a href="/EmiNav_How_It_Works.pdf" download style="display:inline-flex;align-items:center;gap:6px;padding:8px 16px;background:#25D366;color:white;border-radius:6px;text-decoration:none;font-size:0.9375rem;font-weight:600;transition:all 0.2s" onmouseover="this.style.transform='translateY(-2px)'" onmouseout="this.style.transform='translateY(0)'">
                   <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><polyline points="7 10 12 15 17 10"/><line x1="12" y1="15" x2="12" y2="3"/></svg>
