@@ -553,7 +553,7 @@ EmiNav was built because finding the right healthcare in African cities shouldn�
             <div class="about-pillar-icon">🌍</div>
             <div>
               <div class="about-pillar-title">Built for Africa</div>
-              <div class="about-pillar-desc">Healthcare systems across African cities are complex and fast-moving. EmiNav is designed to bring structure and clarity — from service capability to straightforward navigation. We aim to contrinute to strengthening health system transparency and referral pathways.</div>
+              <div class="about-pillar-desc">Healthcare systems across African cities are complex and fast-moving. EmiNav is designed to bring structure and clarity — from service capability to straightforward navigation. We aim to contribute to strengthening health system transparency and referral pathways.</div>
             </div>
           </div>
           <div class="about-pillar">
