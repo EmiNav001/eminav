@@ -518,7 +518,7 @@ Search health facilities by service, capability, and location — so you can mak
     <div class="reveal">
       <div class="section-label">The EmiNav Difference</div>
       <h2 class="section-title">Decision-first,<br/>not search-first.</h2>
-      <p class="section-sub">Most search engines show you a list of clinics.
+      <p class="section-sub">Most search engines show you a list of facilities.
 EmiNav helps you find facilities equipped for your specific need.</p>
     </div>
 
@@ -542,7 +542,7 @@ EmiNav helps you find facilities equipped for your specific need.</p>
           <div class="hiw-step-number">3</div>
           <div class="hiw-step-content">
             <div class="hiw-step-title">Get ranked results</div>
-            <div class="hiw-step-desc">Results are organized by distance and other key factors to help you compare quickly and confidently.</div>
+            <div class="hiw-step-desc">Results are organized by distance and other key factors to help you compare quickly and confidently, to make a timely decision.</div>
           </div>
         </div>
         <div class="hiw-step">
@@ -588,10 +588,10 @@ EmiNav helps you find facilities equipped for your specific need.</p>
         <p class="about-body">
           “Emi” means “life” in Yoruba. That’s exactly what this is about — your life, your health, your navigation.
 
-EmiNav was built because finding the right healthcare in African cities shouldn’t require luck, word-of-mouth, insider knowledge, or wasted minutes spent on endlessly searching.
+EmiNav was built because finding the right healthcare in African cities shouldn’t rely on luck, word-of-mouth, insider knowledge, or wasted minutes spent on endlessly searching.
         </p>
         <p class="about-body" style="margin-top:16px;">
-          We map healthcare facilities not just by location, but by structured service and capability data — so you can find care aligned with your need, not just the nearest name on a map.
+          We map healthcare facilities not just by location, but by structured service and capability data — so you can find care aligned with your needs, not just the nearest name on a map.
         </p>
 
         <div class="cities-coverage">
